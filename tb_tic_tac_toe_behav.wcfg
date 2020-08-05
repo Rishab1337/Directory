@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_tic_tac_toe_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_tic_tac_toe" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="16" />
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/play" type="logic">
+      <obj_property name="ElementShortName">play</obj_property>
+      <obj_property name="ObjectShortName">play</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pc" type="logic">
+      <obj_property name="ElementShortName">pc</obj_property>
+      <obj_property name="ObjectShortName">pc</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/computer_position" type="array">
+      <obj_property name="ElementShortName">computer_position[3:0]</obj_property>
+      <obj_property name="ObjectShortName">computer_position[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/player_position" type="array">
+      <obj_property name="ElementShortName">player_position[3:0]</obj_property>
+      <obj_property name="ObjectShortName">player_position[3:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led1" type="array">
+      <obj_property name="ElementShortName">pos_led1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led1[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led2" type="array">
+      <obj_property name="ElementShortName">pos_led2[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led2[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led3" type="array">
+      <obj_property name="ElementShortName">pos_led3[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led3[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led4" type="array">
+      <obj_property name="ElementShortName">pos_led4[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led4[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led5" type="array">
+      <obj_property name="ElementShortName">pos_led5[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led5[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led6" type="array">
+      <obj_property name="ElementShortName">pos_led6[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led6[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led7" type="array">
+      <obj_property name="ElementShortName">pos_led7[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led7[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led8" type="array">
+      <obj_property name="ElementShortName">pos_led8[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led8[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/pos_led9" type="array">
+      <obj_property name="ElementShortName">pos_led9[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_led9[1:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/tb_tic_tac_toe/who" type="array">
+      <obj_property name="ElementShortName">who[1:0]</obj_property>
+      <obj_property name="ObjectShortName">who[1:0]</obj_property>
+   </wvobject>
+</wave_config>
