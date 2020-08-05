@@ -1,0 +1,71 @@
+Vivado Simulator 2015.1
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2015.1/bin/unwrapped/win64.o/xelab.exe -wto 809468d23bc14ac8a535a929b09ee1d0 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_tic_tac_toe_behav xil_defaultlib.tb_tic_tac_toe xil_defaultlib.glbl -log elaborate.log -v 1 
+Using 2 slave threads.
+INFO: [XSIM 43-3427] Library Mapping: Sourcing library mapping file "C:\Xilinx\Vivado\2015.1\data/xsim/xsim.ini".
+INFO: [VRFC 10-233] The vhdl library search path for library "std" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/std"
+INFO: [VRFC 10-232] The veri library search path for library "std" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/std"
+INFO: [VRFC 10-233] The vhdl library search path for library "ieee" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/ieee"
+INFO: [VRFC 10-232] The veri library search path for library "ieee" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/ieee"
+INFO: [VRFC 10-233] The vhdl library search path for library "vl" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/vl"
+INFO: [VRFC 10-232] The veri library search path for library "vl" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/vl"
+INFO: [VRFC 10-233] The vhdl library search path for library "synopsys" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/synopsys"
+INFO: [VRFC 10-232] The veri library search path for library "synopsys" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/synopsys"
+INFO: [VRFC 10-233] The vhdl library search path for library "unisim" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/unisim"
+INFO: [VRFC 10-232] The veri library search path for library "unisim" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/unisim"
+INFO: [VRFC 10-233] The vhdl library search path for library "unimacro" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/unimacro"
+INFO: [VRFC 10-232] The veri library search path for library "unimacro" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/unimacro"
+INFO: [VRFC 10-233] The vhdl library search path for library "unifast" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/unifast"
+INFO: [VRFC 10-232] The veri library search path for library "unifast" is now "C:/Xilinx/Vivado/2015.1/data/xsim/vhdl/unifast"
+INFO: [VRFC 10-233] The vhdl library search path for library "simprims_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/simprims_ver"
+INFO: [VRFC 10-232] The veri library search path for library "simprims_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/simprims_ver"
+INFO: [VRFC 10-233] The vhdl library search path for library "unisims_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unisims_ver"
+INFO: [VRFC 10-232] The veri library search path for library "unisims_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unisims_ver"
+INFO: [VRFC 10-233] The vhdl library search path for library "unimacro_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unimacro_ver"
+INFO: [VRFC 10-232] The veri library search path for library "unimacro_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unimacro_ver"
+INFO: [VRFC 10-233] The vhdl library search path for library "unifast_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unifast_ver"
+INFO: [VRFC 10-232] The veri library search path for library "unifast_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unifast_ver"
+INFO: [VRFC 10-233] The vhdl library search path for library "secureip" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/secureip"
+INFO: [VRFC 10-232] The veri library search path for library "secureip" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/secureip"
+INFO: [VRFC 10-233] The vhdl library search path for library "xil_defaultlib" is now "C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.sim/sim_1/behav/xsim.dir/xil_defaultlib"
+INFO: [VRFC 10-232] The veri library search path for library "xil_defaultlib" is now "C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.sim/sim_1/behav/xsim.dir/xil_defaultlib"
+INFO: [VRFC 10-233] The vhdl library search path for library "xil_defaultlib" is now "C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.sim/sim_1/behav/xsim.dir/xil_defaultlib"
+INFO: [VRFC 10-232] The veri library search path for library "xil_defaultlib" is now "C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.sim/sim_1/behav/xsim.dir/xil_defaultlib"
+INFO: [VRFC 10-233] The vhdl library search path for library "unisims_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unisims_ver"
+INFO: [VRFC 10-232] The veri library search path for library "unisims_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unisims_ver"
+INFO: [VRFC 10-233] The vhdl library search path for library "unimacro_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unimacro_ver"
+INFO: [VRFC 10-232] The veri library search path for library "unimacro_ver" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/unimacro_ver"
+INFO: [VRFC 10-233] The vhdl library search path for library "secureip" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/secureip"
+INFO: [VRFC 10-232] The veri library search path for library "secureip" is now "C:/Xilinx/Vivado/2015.1/data/xsim/verilog/secureip"
+INFO: [VRFC 10-233] The vhdl library search path for library "work" is now "C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.sim/sim_1/behav/xsim.dir/work"
+INFO: [VRFC 10-232] The veri library search path for library "work" is now "C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.sim/sim_1/behav/xsim.dir/work"
+Starting static elaboration
+INFO: [VRFC 10-520] compiling module tb_tic_tac_toe [C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.srcs/sim_1/new/tictactoetb.v:27]
+INFO: [VRFC 10-520] compiling module glbl [C:/Users/Rishab1337/Desktop/Tic Tac Toe Game - Verilog/Tic Tac Toe Game - Verilog.sim/sim_1/behav/glbl.v:6]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+SDG Object Count: 1067, SDG Object Memory Usage: 127 KB.
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.position_registers
+Compiling module xil_defaultlib.winner_detect_3
+Compiling module xil_defaultlib.winner_detector
+Compiling module xil_defaultlib.position_decoder
+Compiling module xil_defaultlib.illegal_move_detector
+Compiling module xil_defaultlib.nospace_detector
+Compiling module xil_defaultlib.fsm_controller
+Compiling module xil_defaultlib.tic_tac_toe_game
+Compiling module xil_defaultlib.tb_tic_tac_toe
+Compiling module xil_defaultlib.glbl
+C:\Xilinx\Vivado\2015.1\data\..\tps\llvm\3.2\win64.o\bin\Release\clang.exe -std=gnu89 -nobuiltininc -nostdinc++ -S -fbracket-depth=1048576 -sim -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include-fixed -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../x86_64-w64-mingw32/include  -I"C:\Xilinx\Vivado\2015.1\data/xsim/include" "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_0.c" -O0 -sim -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_0.win64.as"
+C:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin\as.exe -W "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_0.win64.as" -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_0.win64.obj"
+C:\Xilinx\Vivado\2015.1\data\..\tps\llvm\3.2\win64.o\bin\Release\clang.exe -std=gnu89 -nobuiltininc -nostdinc++ -S -fbracket-depth=1048576 -sim -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include-fixed -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../x86_64-w64-mingw32/include  -I"C:\Xilinx\Vivado\2015.1\data/xsim/include" "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_1.c" -O0 -sim -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_1.win64.as"
+C:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin\as.exe -W "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_1.win64.as" -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_1.win64.obj"
+C:\Xilinx\Vivado\2015.1\data\..\tps\llvm\3.2\win64.o\bin\Release\clang.exe -std=gnu89 -nobuiltininc -nostdinc++ -S -fbracket-depth=1048576 -sim -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include-fixed -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../x86_64-w64-mingw32/include  -I"C:\Xilinx\Vivado\2015.1\data/xsim/include" "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_2.c" -O0 -sim -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_2.win64.as"
+C:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin\as.exe -W "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_2.win64.as" -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_2.win64.obj"
+C:\Xilinx\Vivado\2015.1\data\..\tps\llvm\3.2\win64.o\bin\Release\clang.exe -std=gnu89 -nobuiltininc -nostdinc++ -S -fbracket-depth=1048576 -sim -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../lib/gcc/x86_64-w64-mingw32/4.4.3/include-fixed -IC:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin/../x86_64-w64-mingw32/include  -I"C:\Xilinx\Vivado\2015.1\data/xsim/include" "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_3.c" -O0 -sim -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_3.win64.as"
+C:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin\as.exe -W "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_3.win64.as" -o "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_3.win64.obj"
+Waiting for 2 sub-compilation(s) to finish...
+Linking with command:
+C:\Xilinx\Vivado\2015.1\data\..\tps\mingw\4.4.3\win64.o\nt64\bin\x86_64-w64-mingw32-gcc.exe -std=gnu89 -Wa,-W -O -Wl,--stack,104857600 -o "xsim.dir/tb_tic_tac_toe_behav/xsimk.exe"   "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_0.win64.obj" "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_1.win64.obj" "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_2.win64.obj" "xsim.dir/tb_tic_tac_toe_behav/obj/xsim_3.win64.obj" "C:\Xilinx\Vivado\2015.1\lib\win64.o\\librdi_simulator_kernel.dll" "C:\Xilinx\Vivado\2015.1\lib\win64.o\\librdi_simbridge_kernel.dll"
+Built simulation snapshot tb_tic_tac_toe_behav
